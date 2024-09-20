@@ -1,3 +1,5 @@
 This file has the business logic.
 
 Wrote logic to perform Crud operation on user.
+
+throwed exceptions in the code by creating exceptions.
